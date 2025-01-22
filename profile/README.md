@@ -2,11 +2,12 @@
 
 ADAPT is a group of open-source initiatives sponsored by [AgGateway](https://aggateway.org/) focusing on agricultural data interoperability.
 
-## Repositories in this GitHub Organization
+## Repositories/Projects in this GitHub Organization
 
 ### Current Development
 
-- **[ADAPT Standard](https://github.com/adapt/Standard)**: Standard data schema for modeling farm reference data, field operations, and geospatial layers. Designed for B2B data sharing. 
+- **[ADAPT Standard](https://github.com/adapt/Standard)**: Standard data schema for modeling farm reference data, field operations, and geospatial layers. Designed for B2B data sharing.
+- **[ADAPT Standard Topic Management](https://github.com/orgs/ADAPT/projects/2)**: Discussion/tracking of open topics in development of the ADAPT Standard.
 
 ### Maintenance Mode
 
