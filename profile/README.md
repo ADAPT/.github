@@ -13,6 +13,6 @@ ADAPT is a group of open-source initiatives sponsored by [AgGateway](https://agg
 - **[ADAPT Framework](https://github.com/ADAPT/ADAPT)**: C# toolkit including an in-memory data model, plugin architecture, and standard data representations/units of measure notations.
 - **[ISOv4Plugin](https://github.com/adapt/ISOv4Plugin)**: C# plugin to read/write ISOXML (ISO11783-10) format to/from the ADAPT Framework.
 - **[AdmPlugin](https://github.com/adapt/AdmPlugin)**: C# plugin to read/write a protobuf/JSON serialization format to/from the ADAPT Framework.
-- **[ADAPTVisualizer](https://github.com/adapt/ADAPTVisualizer)**: WinForms utility to visualize ADAPT Framework data.
+- **[ADAPTVisualizer](https://github.com/adapt/Visualizer)**: WinForms utility to visualize ADAPT Framework data.
 - **[Examples](https://github.com/adapt/Examples)**: C# example code for use with the ADAPT Framework.
 - Several other ADAPT Framework plugins and utilities.
